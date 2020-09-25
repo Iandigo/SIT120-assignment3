@@ -1,5 +1,6 @@
 <template>
   <v-content>
+    <!-- About -->
     <div class="staticHero">
       <v-img src="../assets/images/img13.jpg">
         <v-row align="end" class="lightbox white--text pa-2 fill-height">
@@ -38,9 +39,9 @@ export default {
   name: "HomeDetails",
   data() {
     return {
-    src: require("../assets/images/me.jpeg"),
-    name: 'Ian Nguyen',
-    title: 'Developer'
+      src: require("../assets/images/me.jpeg"),
+      name: 'Ian Nguyen',
+      title: 'Developer'
     };
   }
 };

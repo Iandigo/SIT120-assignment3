@@ -1,4 +1,5 @@
 <template>
+<!-- Picture Gallery -->
   <div class="block galleryBlock">
     <v-container>
       <v-text-field

@@ -1,4 +1,5 @@
 <template>
+<!-- Signup form -->
   <v-main>
       <v-container
         class="fill-height"

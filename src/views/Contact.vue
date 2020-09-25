@@ -1,5 +1,6 @@
 <template>
   <v-content>
+    <!-- contact form -->
     <div class="staticHero">
       <v-img src="../assets/images/img14.jpg">
       <v-row align="end" class="lightbox white--text pa-2 fill-height">

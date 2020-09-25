@@ -1,4 +1,5 @@
 <template>
+<!-- HomePage -->
   <div class="heroBlock">
     <v-carousel cycle hide-delimiters height='740'>
       <v-carousel-item
